@@ -1,15 +1,8 @@
-# Hi there, I'm Hari Krishnan R 👋
+<p align="center">
+  <img src="github_header_banner.png" alt="Hari Krishnan R Portfolio Banner" width="100%">
+</p>
 
-```
-  __  __      _ _   _     _ _              _ _                       
- |  \/  |    | | | (_)   | (_)            | (_)                      
- | \  / |_u _| | |_ _  __| |_ ___  ___ ___| |_ _ __   __ _ _ __ _   _ 
- | |\/| | | | | | __| |/ _` | / __|/ __/ _ \ | | '_ \ / _` | '__| | | |
- | |  | | |_| | | |_| | (_| | \__ \ (_|  __/ | | | | | (_| | |  | |_| |
- |_|  |_|\__,_|_|\__|_|\__,_|_|___/\___\___|_|_|_| |_|\__,_|_|   \__, |
-                                                                  __/ |
-                                                                 |___/ 
-```
+# Hi there, I'm Hari Krishnan 👋
 
 > **Senior Data Systems Architect & Multidisciplinary Engineer**  
 > *14+ Years Enterprise IT Systems | Cloud & Graph Databases | Embedded Hardware & Physical Builds*
