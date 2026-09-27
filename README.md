@@ -1,9 +1,10 @@
 <div style="text-align: center;">
 
-  <img src="github_header_banner.png" alt="Hari Krishnan R Portfolio Banner" width="100%">
+  <img src="github_header_banner.png" alt="Hari's Portfolio Banner" width="100%">
 
 </div>
-# Hi there, I'm Hari Krishnan 👋
+
+## Hi there, I'm Hari Krishnan 👋
 
 > **Senior Data Systems Architect & Multidisciplinary Engineer**  
 > *14+ Years Enterprise IT Systems | Cloud & Graph Databases | Embedded Hardware & Physical Builds*
@@ -33,7 +34,7 @@ I am an **IT Systems Architect & Senior Data Analyst** with **14+ years of enter
 
 | Project                                                                               | Category         | Description                                                                                                           | Key Tech Stack                     | Release / Status                                                                                                                                                   |
 |:--------------------------------------------------------------------------------------|:-----------------|:----------------------------------------------------------------------------------------------------------------------|:-----------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🛡️ **[FileMint (v15.0.2)](https://github.com/encloudme/FileMint)**                    | 💻 IT & Software | Zero-dependency GTK/Windows desktop application for automated file sanitization, system utilities, and data cleaning. | Python, GTK, Windows Automation    | [![R](https://img.shields.io/github/v/release/encloudme/FileMint?label=R%20:&style=flat&logo=github&color=2E7D32)](https://github.com/encloudme/FileMint/releases) |
+| 🛡️ **[FileMint (v15.0.2)](https://github.com/encloudme/FileMint)**                    | 💻 IT & Software | Zero-dependency GTK/Windows desktop application for automated file sanitization, system utilities, and data cleaning. | Python, GTK, Windows Automation    | [![R](https://img.shields.io/github/v/release/encloudme/FileMint?label=R%20:&style=flat&logo=github&color=brightgreen)](https://github.com/encloudme/FileMint/releases) |
 | 📦 **[Project-DigitalArchive](https://github.com/kr-hari-ps/Project-DigitalArchive)** | 🌐 Systems / IT  | Automated digital archiving system designed for structured data retention, metadata indexing, and media preservation. | Python, Automated Workflows, Shell | `Active Build`                                                                                                                                                     |
 
 ---
