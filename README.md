@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="github_header_banner.png" alt="Hari Krishnan R Portfolio Banner" width="100%">
-</p>
+<div style="text-align: center;">
 
+  <img src="github_header_banner.png" alt="Hari Krishnan R Portfolio Banner" width="100%">
+
+</div>
 # Hi there, I'm Hari Krishnan 👋
 
 > **Senior Data Systems Architect & Multidisciplinary Engineer**  
@@ -9,11 +10,11 @@
 
 ---
 
-[![AWS Professional](https://img.shields.io/badge/AWS-Solutions_Architect_Pro-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
-[![Neo4j Certified](https://img.shields.io/badge/Neo4j-Certified_Professional-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![GTK / C](https://img.shields.io/badge/GTK-Desktop_Automation-4A90E2?style=for-the-badge&logo=gtk&logoColor=white)](#)
-[![Hardware](https://img.shields.io/badge/Hardware-ESP32_%7C_STM32_%7C_KiCad-2E7D32?style=for-the-badge&logo=microchip&logoColor=white)](#)
+![AWS Professional](https://img.shields.io/badge/AWS-Solutions_Architect_Pro-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Neo4j Certified](https://img.shields.io/badge/Neo4j-Certified_Professional-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GTK / C](https://img.shields.io/badge/GTK-Desktop_Automation-4A90E2?style=for-the-badge&logo=gtk&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware-ESP32_%7C_STM32_%7C_KiCad-2E7D32?style=for-the-badge&logo=microchip&logoColor=white)
 
 ---
 
@@ -30,10 +31,10 @@ I am an **IT Systems Architect & Senior Data Analyst** with **14+ years of enter
 
 ### 🚀 Featured Flagship Projects
 
-| Project | Category | Description | Key Tech Stack | Release / Status |
-| :--- | :--- | :--- | :--- | :--- |
-| 🛡️ **[FileMint (v15.0)](#)** | 💻 IT & Software | Zero-dependency GTK/Windows desktop application for automated file sanitization, system utilities, and data cleaning. | Python, GTK, Windows Automation | `v15.0 Released` |
-| 📦 **[Project-DigitalArchive](https://github.com/kr-hari-ps/Project-DigitalArchive)** | 🌐 Systems / IT | Automated digital archiving system designed for structured data retention, metadata indexing, and media preservation. | Python, Automated Workflows, Shell | `Active Build` |
+| Project                                                                               | Category         | Description                                                                                                           | Key Tech Stack                     | Release / Status                                                                                                                                                   |
+|:--------------------------------------------------------------------------------------|:-----------------|:----------------------------------------------------------------------------------------------------------------------|:-----------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🛡️ **[FileMint (v15.0.2)](https://github.com/encloudme/FileMint)**                    | 💻 IT & Software | Zero-dependency GTK/Windows desktop application for automated file sanitization, system utilities, and data cleaning. | Python, GTK, Windows Automation    | [![R](https://img.shields.io/github/v/release/encloudme/FileMint?label=R%20:&style=flat&logo=github&color=2E7D32)](https://github.com/encloudme/FileMint/releases) |
+| 📦 **[Project-DigitalArchive](https://github.com/kr-hari-ps/Project-DigitalArchive)** | 🌐 Systems / IT  | Automated digital archiving system designed for structured data retention, metadata indexing, and media preservation. | Python, Automated Workflows, Shell | `Active Build`                                                                                                                                                     |
 
 ---
 
@@ -59,7 +60,9 @@ I am an **IT Systems Architect & Senior Data Analyst** with **14+ years of enter
 
 ### 📫 Connect & Professional Network
 
-- 💼 **LinkedIn:** [Hari Krishnan R](https://www.linkedin.com) *(Update with direct URL)*
-- 📜 **Credly Badges:** [AWS & Database Credentials](https://www.credly.com) *(Update with direct URL)*
-- ✉️ **Email:** `kr.hari@outlook.com`
-- 🌐 **GitHub Profile:** [kr-hari-ps](https://github.com/kr-hari-ps)
+- 💼 LinkedIn: [**Hari Krishnan R**](http://www.linkedin.com/in/hari-krishnan-r-3345a131)
+- 📜 Credly Badges: [**AWS & Database Credentials**](https://www.credly.com/users/hari-krishnan-r.7c837b74)
+- ✉️ Email: **`kr.hari@outlook.com`**
+- 🌐 GitHub Profile: [**encloudme**](https://github.com/encloudme)
+- 🌐 GitHub Profile: [**kr-hari-ps**](https://github.com/kr-hari-ps)
+---
