@@ -32,17 +32,17 @@ I am an **IT Systems Architect & Senior Data Analyst** with **14+ years of enter
 
 ### 🚀 Featured Flagship Projects
 
-| Project                                                                               | Category         | Description                                                                                                           | Key Tech Stack                     | Release / Status                                                                                                                                                   |
-|:--------------------------------------------------------------------------------------|:-----------------|:----------------------------------------------------------------------------------------------------------------------|:-----------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🛡️ **[FileMint (v15.0.2)](https://github.com/encloudme/FileMint)**                    | 💻 IT & Software | Zero-dependency GTK/Windows desktop application for automated file sanitization, system utilities, and data cleaning. | Python, GTK, Windows Automation    | [![R](https://img.shields.io/github/v/release/encloudme/FileMint?label=R%20:&style=flat&logo=github&color=brightgreen)](https://github.com/encloudme/FileMint/releases) |
-| 📦 **[Project-DigitalArchive](https://github.com/kr-hari-ps/Project-DigitalArchive)** | 🌐 Systems / IT  | Automated digital archiving system designed for structured data retention, metadata indexing, and media preservation. | Python, Automated Workflows, Shell | `Active Build`                                                                                                                                                     |
+| Project                                                                 | Category         | Description                                                                                                           | Key Tech Stack                     | Release / Status                                                                                                                                                              |
+|:------------------------------------------------------------------------|:-----------------|:----------------------------------------------------------------------------------------------------------------------|:-----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🛡️ **[FileMint (v15.0.2)](https://github.com/encloudme/FileMint)**      | 💻 IT & Software | Zero-dependency GTK/Windows desktop application for automated file sanitization, system utilities, and data cleaning. | Python, GTK, Windows Automation    | [![R](https://img.shields.io/github/v/release/encloudme/FileMint?label=R%20:&style=flat&logo=github&color=brightgreen)](https://github.com/encloudme/FileMint/releases)       |
+| 📦 **[digiArchive (v5.0.0)](https://github.com/encloudme/digiArchive)** | 💻 IT & Software | Automated digital archiving system designed for structured data retention, metadata indexing, and media preservation. | Python, Automated Workflows, Shell | [![R](https://img.shields.io/github/v/release/encloudme/digiArchive?label=R%20:&style=flat&logo=github&color=brightgreen)](https://github.com/encloudme/digiArchive/releases) |
 
 ---
 
 ### 🛠️ Portfolio Categories & Domains
 
 ```
-📂 kr-hari-ps Portfolio Taxonomy
+📂 kr-hari-ps - Portfolio Taxonomy
 ├── 💻 IT & Software Projects       # Desktop apps, file sanitization (FileMint), system automation
 ├── ⚡ Electronics Projects         # Embedded firmware (ESP32/STM32), sensor nodes, KiCad PCBs
 ├── 🛠️ DIY & Physical Builds        # 3D printed enclosures, custom mechanical rigs, CAD/STL models
@@ -64,6 +64,8 @@ I am an **IT Systems Architect & Senior Data Analyst** with **14+ years of enter
 - 💼 LinkedIn: [**Hari Krishnan R**](http://www.linkedin.com/in/hari-krishnan-r-3345a131)
 - 📜 Credly Badges: [**AWS & Database Credentials**](https://www.credly.com/users/hari-krishnan-r.7c837b74)
 - ✉️ Email: **`kr.hari@outlook.com`**
-- 🌐 GitHub Profile: [**encloudme**](https://github.com/encloudme)
-- 🌐 GitHub Profile: [**kr-hari-ps**](https://github.com/kr-hari-ps)
+- 🌐 GitHub Profile: [**encloudme**](https://github.com/encloudme) | [**kr-hari-ps**](https://github.com/kr-hari-ps)
+-  ▶️ YouTube: [**YT/@encloudme**](https://www.youtube.com/@encloudme)
+- 🅾  Instagram: [**encloudme**](https://instagram.com/encloudme)
+
 ---
