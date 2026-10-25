@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-  <img src="github_header_banner.png" alt="Hari's Portfolio Banner" width="100%">
+  <img src="github_header_banner.png" alt="Hari's Portfolio Banner" width="1376">
 
 </div>
 
@@ -35,7 +35,7 @@ I am an **IT Systems Architect & Senior Data Analyst** with **14+ years of enter
 | Project                                                                 | Category         | Description                                                                                                           | Key Tech Stack                     | Release / Status                                                                                                                                                              |
 |:------------------------------------------------------------------------|:-----------------|:----------------------------------------------------------------------------------------------------------------------|:-----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 🛡️ **[FileMint (v15.0.2)](https://github.com/encloudme/FileMint)**      | 💻 IT & Software | Zero-dependency GTK/Windows desktop application for automated file sanitization, system utilities, and data cleaning. | Python, GTK, Windows Automation    | [![R](https://img.shields.io/github/v/release/encloudme/FileMint?label=R%20:&style=flat&logo=github&color=brightgreen)](https://github.com/encloudme/FileMint/releases)       |
-| 📦 **[digiArchive (v5.0.0)](https://github.com/encloudme/digiArchive)** | 💻 IT & Software | Automated digital archiving system designed for structured data retention, metadata indexing, and media preservation. | Python, Automated Workflows, Shell | [![R](https://img.shields.io/github/v/release/encloudme/digiArchive?label=R%20:&style=flat&logo=github&color=brightgreen)](https://github.com/encloudme/digiArchive/releases) |
+| 📦 **[digiArchive (v5.0.1)](https://github.com/encloudme/digiArchive)** | 💻 IT & Software | Automated digital archiving system designed for structured data retention, metadata indexing, and media preservation. | Python, Automated Workflows, Shell | [![R](https://img.shields.io/github/v/release/encloudme/digiArchive?label=R%20:&style=flat&logo=github&color=brightgreen)](https://github.com/encloudme/digiArchive/releases) |
 
 ---
 
